@@ -1,7 +1,0 @@
-node_modules/
-.idea
-.vscode
-.DS_Store
-android/app/build
-ios/build
-*.log
